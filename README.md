@@ -46,3 +46,4 @@ mpv --demuxer-lavf-format v4l2 /dev/video2
 
 GPL-3.0-or-later
 
+![Hi](https://github.com/silvije2/ffmpeg-camera-effects/blob/master/cam-fun.png)
